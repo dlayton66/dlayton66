@@ -1,29 +1,29 @@
 # Hi there, I'm Drew 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drew-layton/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1572B6?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drew-layton/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dlayton66@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-3a464b?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/dlayton66)
+[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/dlayton66)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/dlayton66/)
 
 ## Languages
 
 ### 🔭 Tech Stack
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Rails-CC342D?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-c14438?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-c14438?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Django](https://img.shields.io/badge/Django-3a464b?style=for-the-badge&logo=django&logoColor=green)
+![Django](https://img.shields.io/badge/Django-grey?style=for-the-badge&logo=django&logoColor=green)
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-563D7C?style=for-the-badge&logo=heroku&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-685EA9?style=for-the-badge&logo=heroku&logoColor=white)
 <br>
-![GitHub](https://img.shields.io/badge/-GitHub-3a464b?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-1572B6?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-FF6C37?style=for-the-badge&logo=git&logoColor=white)
 <br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF6C37?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-685EA9?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ### 🌱 Currently Learning
@@ -34,10 +34,10 @@
   </tr>
   <tr>
     <td>
-      <img align="center" src="https://img.shields.io/badge/JavaScript-3a464b?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
+      <img align="center" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
     </td>
     <td align="center">
-      <img align="center" width="120" height="26" src="https://geps.dev/progress/5?dangerColor=5cb85c&warningColor=5cb85c&successColor=5cb85c"></img>
+      <img align="center" width="120" height="28" src="https://geps.dev/progress/5?dangerColor=5cb85c&warningColor=5cb85c&successColor=5cb85c"></img>
     </td>
   </tr>
 </table>
