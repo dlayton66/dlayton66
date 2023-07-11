@@ -44,7 +44,7 @@ When I'm not coding, you can find me camping, gaming (currently Hades), or playi
       <img align="center" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
     </td>
     <td align="center">
-      <img align="center" width="120" height="28" src="https://geps.dev/progress/5?dangerColor=5cb85c&warningColor=5cb85c&successColor=5cb85c"></img>
+      <img align="center" width="120" height="28" src="https://geps.dev/progress/7?dangerColor=5cb85c&warningColor=5cb85c&successColor=5cb85c"></img>
     </td>
   </tr>
 </table>
