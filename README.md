@@ -9,6 +9,8 @@ I'm a former professional poker player transitioning to a career in software dev
 
 Currently I'm looking for work as a back-end or full-stack engineer.  In the meantime, I'm keeping my backend skills sharp while also expanding into JavaScript with [Exercism's JavaScript path](https://exercism.org/tracks/javascript).  You can track my progress with me below!
 
+When I'm not coding, you can find me camping, gaming (currently Hades), or playing piano!
+
 ## Languages
 
 ### 🔭 Tech Stack
