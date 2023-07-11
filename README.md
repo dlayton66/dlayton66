@@ -1,9 +1,13 @@
-# Hi there, I'm Drew 👋
+# Hey there, I'm Drew 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1572B6?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drew-layton/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dlayton66@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/dlayton66)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/dlayton66/)
+
+I'm a former professional poker player transitioning to a career in software development.  I recently graduated from the ACCET-accredited backend program at the [Turing School of Software and Design](https://turing.edu/), which focused on Ruby on Rails.  I also have experience with Python and C#.
+
+Currently I'm looking for work as a back-end or full-stack engineer.  In the meantime, I'm keeping my backend skills sharp while also expanding into JavaScript with [Exercism's JavaScript path](https://exercism.org/tracks/javascript).  You can track my progress with me below!
 
 ## Languages
 
@@ -12,6 +16,7 @@
 ![Ruby on Rails](https://img.shields.io/badge/Rails-c14438?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-grey?style=for-the-badge&logo=django&logoColor=green)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
