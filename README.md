@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/dlayton66)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/dlayton66/)
 
-I'm a former professional poker player transitioning to a career in software development.  I recently graduated from the ACCET-accredited backend program at the [Turing School of Software and Design](https://turing.edu/), which focused on Ruby on Rails.  I also have experience with Python and C#.
+I'm a former professional poker player who's transitioned to a career in software development.  I recently graduated from the ACCET-accredited backend program at the [Turing School of Software and Design](https://turing.edu/), which focused on Ruby on Rails.  I also have experience with Python and C#.
 
 Currently I'm looking for work as a back-end or full-stack engineer.  In the meantime, I'm keeping my backend skills sharp while also expanding into JavaScript with [Exercism's JavaScript path](https://exercism.org/tracks/javascript).  You can track my progress with me below!
 
