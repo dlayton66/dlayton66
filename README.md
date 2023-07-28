@@ -18,7 +18,6 @@ When I'm not coding, you can find me camping, gaming (currently Hades), or playi
 ![Ruby on Rails](https://img.shields.io/badge/Rails-c14438?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-grey?style=for-the-badge&logo=django&logoColor=green)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -44,7 +43,7 @@ When I'm not coding, you can find me camping, gaming (currently Hades), or playi
       <img align="center" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
     </td>
     <td align="center">
-      <img align="center" width="120" height="28" src="https://geps.dev/progress/13?dangerColor=5cb85c&warningColor=5cb85c&successColor=5cb85c"></img>
+      <img align="center" width="120" height="28" src="https://geps.dev/progress/16?dangerColor=5cb85c&warningColor=5cb85c&successColor=5cb85c"></img>
     </td>
   </tr>
 </table>
