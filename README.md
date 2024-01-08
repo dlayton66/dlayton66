@@ -3,11 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1572B6?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drew-layton/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dlayton66@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/dlayton66)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/dlayton66/)
 
-I'm a former professional poker player who's transitioned to a career in software development.  I recently graduated from the ACCET-accredited backend program at the [Turing School of Software and Design](https://turing.edu/), which focused on Ruby on Rails.  I also have experience with Python, C#, and JavaScript.
+I'm a full-stack software developer with a background as a former professional poker player.  Recently I graduated from the ACCET-accredited backend program at the [Turing School of Software and Design](https://turing.edu/) in Ruby on Rails, as well as the [FastTrack](https://www.allaboutfasttrack.com/) full-stack program in Java/Spring and JavaScript/Angular.
 
-Currently I'm looking for work as a back-end or full-stack engineer.  When I'm not coding, you can find me camping, gaming (currently Hades), or playing piano!
+Currently I'm looking for work as a back-end, front-end, or full-stack developer.  When I'm not coding, you can find me camping, gaming (currently Hades), or playing piano!
 
 ## Languages
 
@@ -16,6 +15,14 @@ Currently I'm looking for work as a back-end or full-stack engineer.  When I'm n
 ![Ruby on Rails](https://img.shields.io/badge/Rails-c14438?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-grey?style=for-the-badge&logo=django&logoColor=green)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23c14438.svg?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF6C37?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -24,19 +31,3 @@ Currently I'm looking for work as a back-end or full-stack engineer.  When I'm n
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-1572B6?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-FF6C37?style=for-the-badge&logo=git&logoColor=white)
-<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-FF6C37?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-685EA9?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<!--
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
