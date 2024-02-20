@@ -6,7 +6,9 @@
 
 I'm a full-stack software developer with a background as a former professional poker player.  Recently I graduated from the ACCET-accredited backend program at the [Turing School of Software and Design](https://turing.edu/) in Ruby on Rails, as well as the [FastTrack](https://www.allaboutfasttrack.com/) full-stack program in Java/Spring and JavaScript/Angular.
 
-Currently I'm looking for work as a back-end, front-end, or full-stack developer.  When I'm not coding, you can find me camping, gaming (currently Hades), or playing piano!
+I love coding on the side as well.  These days I'm helping design and maintain a match-making [Discord Bot](https://github.com/tribesonecommunity/discord-bots) written in Python, as well as working through [Full Stack open's course](https://fullstackopen.com/en/) in React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
+
+I'm currently looking for work as a back-end, front-end, or full-stack developer.  When I'm not coding, you can find me camping, gaming, or playing piano!
 
 ## Languages
 
